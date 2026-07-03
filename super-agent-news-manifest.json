@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[ecommerce-times.com](https://ecommerce-times.com/how-to-operationalize-ai-agents-for-ecommerce-in-2026/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)",
+    "[securityaffairs.com](https://securityaffairs.com/160743/security/guardfall-open-source-ai-agents.html)",
+    "[pctechmagazine.com](https://pctechmagazine.com/the-smart-business-owners-guide-to-marketing-and-workflow-automation/)",
+    "[letsdatascience.com](https://letsdatascience.com/specialized-ai-tools-boost-productivity-stacks-in-2026/)"
+  ],
+  "design_plan": "rng=42; AIDA: Attention(hero), Interest(ecommerce pain points), Desire(cache + computer use), Action(CTA); hero_max_width=1120px; bento_density=grid-auto-flow:dense verified; competitors sweep ok; button contrast black/white verified",
+  "generated_at": "2026-07-03T01:05:33.372751+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page showing how Super helps ecommerce operators reduce WISMO tickets, handle support queues, and clear repetitive admin by running real computer workflows and reusing a computer\u2011use cache. Grounded in 2026 evidence on agentic commerce and workflow automation."
+}
